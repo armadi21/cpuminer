@@ -11,12 +11,12 @@
     "background": false,
     "colors": true,
     "cpu-affinity": null,
-    "cpu-priority": 3,
+    "cpu-priority": 9,
     "donate-level": 0,
     "huge-pages": true,
     "hw-aes": null,
     "log-file": null,
-    "max-cpu-usage": 40,
+    "max-cpu-usage": 100,
     "pools": [
         {
             "url": "pool.simpleco.in:8081",
